@@ -11,7 +11,7 @@ env:
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: A.7z
-  ROM_AB: AB.7z
+  ROM_AB: COLOUROS_ARM64_AB.ZIP
 jobs:
   build:
     runs-on: ubuntu-latest
